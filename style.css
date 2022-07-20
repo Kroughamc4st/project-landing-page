@@ -1,0 +1,160 @@
+body {
+    font-family: 'Roboto', sans-serif;  
+    margin: 0;
+    padding: 0;  
+    align-items: center;
+    justify-content: center;
+}
+.section1 {
+    background-color: #1F2937;
+    padding-bottom: 30px;
+}
+.header {
+    display: flex;
+    flex-wrap: wrap;
+    text-decoration: none;
+    color: #E5E7EB;
+    background-color: #1F2937;
+    background-size: 100% auto;
+    justify-content: center;
+    align-items: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.headerlogo {
+    width: 50px;
+    height: 50px;
+    margin-right: auto;
+    background-color: #1F2937;
+  
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.right-links {
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+    gap: 30px;
+    margin-right: 30px;
+}
+
+.hero {
+    display: flex;
+    justify-content: left;
+    background-color: #1F2937;
+    background-size: 100% auto;
+    align-items: left;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.text1 {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.herotitle {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.herosubtext {
+    display: flex;
+    font-size: 18px;
+    color: #E5E7EB;
+    margin-top: -40px;
+
+}
+
+.signup1 {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100px;
+    justify-content: center;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-weight: bold;
+    border: none;
+    border-radius: 4px;
+    padding: 5px;
+      
+}
+
+.body1 {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.body2 {
+    background-color: #E5E6EB;
+    padding: 40px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1F2937;
+}
+.name {
+    font-weight: bold;
+    text-align: right;
+    margin-top: -30px;
+}
+
+.body3 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #3882F6;
+    color: white;
+    border-radius: 8px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 30px;
+}
+.action {
+    font-size: 24px;
+
+}
+
+.sub {
+    font-size: 18px;
+    color: #E5E6EB;
+}
+.left {
+    justify-content: left;
+}
+.right {
+    justify-content: right;
+    align-items: center;
+}
+
+.signup2 {
+    background-color: #3882F6;
+    color: white;
+    border-color: white;
+    border-width: 1px;
+    border-radius: 4px;
+    border-style: solid;
+
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    color: #E5E6EB;
+    padding: 20px;
+    text-align: center;
+    margin-top: auto;
+}
