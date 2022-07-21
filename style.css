@@ -89,8 +89,8 @@ body {
     justify-content: center;
     align-items: center;
     margin-top: 40px;
-    height: 200px;
-    width: auto;
+    height: auto;
+    width: 500px;
 }
 
 .body1 {
