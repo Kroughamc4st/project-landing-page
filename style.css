@@ -246,8 +246,3 @@ body {
     text-align: center;
     margin-top: auto;
 }
-
-.nothing {
-    display: flex;
-    /*adding this nothing class to try the git commit */
-}
